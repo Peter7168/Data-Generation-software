@@ -13,7 +13,7 @@ This project involves the development of a C application aimed at generating CSV
 
 ## Key Achievements
 - Developed a robust C application for generating realistic data test sets.
-- Designed and implemented a user-friendly menu system, showcasing strong problem-solving skills.
+- Designed and implemented a user-friendly menu system.
 - Successfully integrated data generation mechanisms to ensure data integrity and accuracy.
 
 
